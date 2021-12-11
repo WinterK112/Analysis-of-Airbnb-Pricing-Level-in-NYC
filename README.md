@@ -2,3 +2,4 @@
 Analysis of Airbnb Pricing in New York City
 
 This is the analysis of Airbnb pricing level in NYC.
+Done with R.
